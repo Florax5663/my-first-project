@@ -2,7 +2,7 @@
 
 A fully responsive personal developer portfolio built to showcase my full-stack web applications, hardware engineering builds, and competitive programming progress. 
 
-**🔴 Live Demo:** [https://florax5663.github.io/my-first-project/]
+**🔴 Live Demo:** [https://github.com/Florax5663/piuse-portfolio]
 
 ## 🛠️ Technologies Used
 * **HTML5:** Semantic structuring and layout.
